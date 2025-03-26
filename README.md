@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **smh.dgsn@gmail.com**
 
